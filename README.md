@@ -18,4 +18,5 @@ I think it is important as developers to realise that often times when people le
 
 So critic my code, say it is ugly, say it is bad, suggest fixes, but dont be a dickhead, dont feel the need to flex your intelligence over others, dont feel the need to flex your fluency in a language to others. It is highly discouraging to new developers when they see others mock them for their skills.
 
-Anyway, have fun with this code.
+Anyway, have fun with this code. Dont try to download the executable because it doesnt work 😭
+if you want to run the code use the gcc compiler to compile the code into an executable and run that executable.
